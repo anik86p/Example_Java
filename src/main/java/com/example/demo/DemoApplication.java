@@ -6,6 +6,8 @@ import org.springframework.context.ConfigurableApplicationContext;
 
 @SpringBootApplication
 public class DemoApplication {
+ public int x;
+ public int z;
 
 	public static void main(String[] args)
 	{
