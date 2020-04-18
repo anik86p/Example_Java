@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Name {
     public String name;
+    public int git_upload;
     public int branch1;
     public int getBranch2;
     public String getName()

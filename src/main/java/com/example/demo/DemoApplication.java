@@ -8,6 +8,8 @@ import org.springframework.context.ConfigurableApplicationContext;
 public class DemoApplication {
  public int x;
  public int z;
+ public int xx;
+ public String dd;
 
 	public static void main(String[] args)
 	{
